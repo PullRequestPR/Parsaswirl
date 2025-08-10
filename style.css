@@ -1,9 +1,14 @@
 body {
     text-align: center;
-    background : skyblue;
-    color: pink;
+    background : rgb(157, 213, 230);
+    color: red;
 }
 
 h1 {
     color: aquamarine
+}
+
+
+ol {
+    list-style-type: lower-alpha;
 }
